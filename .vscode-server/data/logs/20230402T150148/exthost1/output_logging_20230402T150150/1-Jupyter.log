@@ -1,0 +1,40 @@
+Visual Studio Code (1.77.0, wsl, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/lrb96/librerias_python
+info 15:02:39.926: ZMQ loaded via fallback mechanism.
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+info 15:02:40.188: LSP Notebooks experiment is enabled
+info 15:02:40.835: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Mar 13 2023, 10:26:41) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' (disableUI=true)
+warn 15:02:41.003: Failed to get activated env vars for /bin/python3 in 169ms
+warn 15:02:41.003: Failed to get activated env vars for /bin/python3 in 155ms
+warn 15:02:41.003: Failed to get activated env vars for /bin/python3 in 125ms
+warn 15:02:41.003: Failed to get activated env vars for /bin/python3 in 125ms
+info 15:02:41.013: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+error 15:02:41.028: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 15:02:41.028: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 15:02:41.028: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 15:02:41.028: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 15:02:41.034: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 15:02:41.040: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 15:02:41.046: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"3edd9728-e966-41e9-b68c-e4d5bd00cd3d" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-1011ob0yfw0NLpv3.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"3edd9728-e966-41e9-b68c-e4d5bd00cd3d" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-1011ob0yfw0NLpv3.json
+info 15:02:41.046: Process Execution: cwd: ~/librerias_python/cuadernos/pandas_platzi
+cwd: ~/librerias_python/cuadernos/pandas_platzi
+info 15:02:41.307: ipykernel version & path 6.22.0, ~/.local/lib/python3.8/site-packages/ipykernel/__init__.py for /bin/python3
+info 15:02:42.069: ZMQ loaded via fallback mechanism.
+info 15:02:42.083: Started Kernel Python 3.8.10 (pid: 1229)
+warn 15:02:42.234: Failed to get activated env vars for /bin/python3 in 101ms
+error 15:02:42.235: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 15:02:42.244: Process Execution: > /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+> /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+info 15:03:24.367: Shutting down notebooks for a341741a-bebb-438e-90bf-4741d0f7ef72
+info 15:03:24.367: Disposing HostJupyterExecution cb023d83-7cec-49aa-872b-fa5809c8a220
+info 15:03:24.367: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 15:03:24.368: Dispose Kernel process 1229.
+info 15:03:24.376: Disposing HostJupyterExecution cb023d83-7cec-49aa-872b-fa5809c8a220

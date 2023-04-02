@@ -1,0 +1,26 @@
+2023-04-02 17:08:38.106 [info] 
+
+
+
+
+2023-04-02 17:08:38.128 [info] Extension host agent started.
+2023-04-02 17:08:38.315 [info] [127.0.0.1][8309f558][ManagementConnection] New connection established.
+2023-04-02 17:08:38.504 [info] [127.0.0.1][0dc580f0][ExtensionHostConnection] New connection established.
+2023-04-02 17:08:38.510 [info] [127.0.0.1][0dc580f0][ExtensionHostConnection] <96> Launched Extension Host Process.
+2023-04-02 17:08:42.398 [info] [127.0.0.1][0dc580f0][ExtensionHostConnection] <96> Starting WebSocket: RAW/api/kernels/ca4e8447-b7f5-4fba-b6fe-30d40dc3f2fc
+
+2023-04-02 17:12:48.540 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-renderers@1.0.15 file:///home/lrb96/.vscode-server/extensions/extensions.json
+2023-04-02 17:12:50.458 [info] Marked extension as uninstalled ms-toolsai.jupyter-renderers-1.0.15
+2023-04-02 17:12:50.737 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-renderers@1.0.15 file:///home/lrb96/.vscode-server/extensions/extensions.json
+2023-04-02 17:12:51.625 [info] Getting Manifest... jithurjacob.nbpreviewer
+2023-04-02 17:12:51.664 [info] Installing extension: jithurjacob.nbpreviewer
+2023-04-02 17:12:56.084 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-02 17:12:56.125 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-04-02 17:13:00.392 [info] Extension signature is verified: jithurjacob.nbpreviewer
+2023-04-02 17:13:00.947 [info] Extension signature is verified: ms-toolsai.jupyter-renderers
+2023-04-02 17:13:00.950 [info] Removed the extension from uninstalled list: ms-toolsai.jupyter-renderers
+2023-04-02 17:13:01.230 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-04-02 17:13:04.352 [info] Extracted extension to /home/lrb96/.vscode-server/extensions/.b0267d33-74be-4dd8-826b-df584b4ea081: jithurjacob.nbpreviewer
+2023-04-02 17:13:05.615 [info] Renamed to /home/lrb96/.vscode-server/extensions/jithurjacob.nbpreviewer-1.2.2
+2023-04-02 17:13:05.616 [info] Extracting extension completed. jithurjacob.nbpreviewer
+2023-04-02 17:13:05.802 [info] Extension installed successfully: jithurjacob.nbpreviewer

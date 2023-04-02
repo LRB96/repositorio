@@ -72,3 +72,30 @@ git log
 git commit -m "commit6"
 git pull origin master
 git push origin master
+sudo apt-get update && apt-get upgrade
+git status
+git add .
+git log
+git commit -m "commit7"
+git pull origin master
+git push origin master
+cd librerias_python/
+code .
+cd ..
+git status
+git add .
+git log
+git commit -m "commit7"
+git pull origin master
+git push origin master
+git status
+git log
+cd librerias_python/
+cd ..
+sudo apt-get update && apt-get upgrade
+cd librerias_python/
+code .
+cd ..
+git status
+la
+update

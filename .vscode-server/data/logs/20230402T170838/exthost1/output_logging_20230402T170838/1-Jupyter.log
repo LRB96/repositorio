@@ -1,0 +1,41 @@
+Visual Studio Code (1.77.0, wsl, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/lrb96/librerias_python
+info 17:08:39.658: ZMQ loaded via fallback mechanism.
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+info 17:08:39.887: LSP Notebooks experiment is enabled
+info 17:08:40.608: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Mar 13 2023, 10:26:41) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' (disableUI=true)
+warn 17:08:41.249: Failed to get activated env vars for /bin/python3 in 749ms
+warn 17:08:41.249: Failed to get activated env vars for /bin/python3 in 579ms
+warn 17:08:41.249: Failed to get activated env vars for /bin/python3 in 314ms
+warn 17:08:41.249: Failed to get activated env vars for /bin/python3 in 313ms
+info 17:08:41.265: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+error 17:08:41.344: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:08:41.344: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:08:41.344: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:08:41.345: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 17:08:41.351: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 17:08:41.358: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:08:41.367: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"6e5cdcfa-daaf-4f5b-943a-7d724e307c90" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-963wl82Cc9wZNt.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"6e5cdcfa-daaf-4f5b-943a-7d724e307c90" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-963wl82Cc9wZNt.json
+info 17:08:41.367: Process Execution: cwd: ~/librerias_python/cuadernos/pandas_platzi
+cwd: ~/librerias_python/cuadernos/pandas_platzi
+info 17:08:41.674: ipykernel version & path 6.22.0, ~/.local/lib/python3.8/site-packages/ipykernel/__init__.py for /bin/python3
+warn 17:08:42.261: StdErr from Kernel Process /home/lrb96/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 17:08:42.261: StdErr from Kernel Process /home/lrb96/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '6e5cdcfa-daaf-4f5b-943a-7d724e307c90' instead of 'b"6e5cdcfa-daaf-4f5b-943a-7d724e307c90"'.
+  warn(
+
+info 17:08:42.400: ZMQ loaded via fallback mechanism.
+info 17:08:42.415: Started Kernel Python 3.8.10 (pid: 269)
+warn 17:08:42.516: Failed to get activated env vars for /bin/python3 in 65ms
+error 17:08:42.517: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 17:08:42.590: Process Execution: > /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+> /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py

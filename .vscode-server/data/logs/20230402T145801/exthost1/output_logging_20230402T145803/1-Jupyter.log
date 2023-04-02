@@ -1,0 +1,11 @@
+Visual Studio Code (1.77.0, wsl, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+No workspace folder opened.
+info 14:58:05.277: ZMQ loaded via fallback mechanism.
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+info 14:58:05.611: LSP Notebooks experiment is enabled
+info 14:58:28.582: Shutting down notebooks for 539daa2a-b6ca-49de-b3e4-26b2b068b0c8
+info 14:58:28.582: Disposing HostJupyterExecution 6f2d8e0a-45e8-4372-98b9-a3efc896d8fa
+info 14:58:28.583: Disposing HostJupyterExecution 6f2d8e0a-45e8-4372-98b9-a3efc896d8fa
