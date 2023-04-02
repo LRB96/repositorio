@@ -1,0 +1,43 @@
+Visual Studio Code (1.77.0, wsl, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/lrb96/librerias_python
+info 17:17:15.640: ZMQ loaded via fallback mechanism.
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+info 17:17:15.906: LSP Notebooks experiment is enabled
+warn 17:17:16.656: Failed to get activated env vars for /bin/python3 in 188ms
+info 17:17:16.664: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+error 17:17:16.719: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 17:17:16.727: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 17:17:21.567: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Mar 13 2023, 10:26:41) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb' (disableUI=false)
+warn 17:17:21.646: Failed to get activated env vars for /bin/python3 in 76ms
+warn 17:17:21.646: Failed to get activated env vars for /bin/python3 in 52ms
+warn 17:17:21.646: Failed to get activated env vars for /bin/python3 in 52ms
+error 17:17:21.647: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:17:21.647: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:17:21.647: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 17:17:21.652: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:17:21.656: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"1c1780bd-b8d9-41a9-aabd-41f1681ca514" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-14151qHS82rwo1ds8.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"1c1780bd-b8d9-41a9-aabd-41f1681ca514" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-14151qHS82rwo1ds8.json
+info 17:17:21.656: Process Execution: cwd: ~/librerias_python/cuadernos/matplotlib_platzi
+cwd: ~/librerias_python/cuadernos/matplotlib_platzi
+info 17:17:21.793: ipykernel version & path 6.22.0, ~/.local/lib/python3.8/site-packages/ipykernel/__init__.py for /bin/python3
+info 17:17:22.069: ZMQ loaded via fallback mechanism.
+info 17:17:22.079: Started Kernel Python 3.8.10 (pid: 14352)
+warn 17:17:22.247: Failed to get activated env vars for /bin/python3 in 144ms
+error 17:17:22.248: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 17:17:22.253: Process Execution: > /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+> /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+info 17:17:22.502: Cancel all remaining cells true || Error || undefined
+info 17:17:27.429: Cancel all remaining cells true || Error || undefined
+info 17:20:06.067: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb'
+info 17:20:06.069: Dispose Kernel process 14352.
+info 17:20:16.365: Shutting down notebooks for 0fffab8d-b0eb-47bb-896b-36df49244a19
+info 17:20:16.365: Disposing HostJupyterExecution f6957fda-7605-478b-aa75-86c30a31631a
+info 17:20:16.365: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb'
+info 17:20:16.365: Disposing HostJupyterExecution f6957fda-7605-478b-aa75-86c30a31631a

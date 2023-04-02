@@ -1,7 +1,0 @@
-El experimento \"pythonPromptNewToolsExt\" está activo
-> conda info --json
-Ruta de acceso del intérprete de Python: /bin/python3
-> /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
-> /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.6.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.6.0/pythonFiles/interpreterInfo.py
-Iniciando el servidor de lenguaje Pylance.
-Jupyter provided interpreter path override: /bin/python3

@@ -1,0 +1,30 @@
+[Info  - 5:17:16 PM] (14311) Pylance language server 2023.3.40 (pyright 04471971) starting
+[Info  - 5:17:17 PM] (14311) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist
+[Info  - 5:17:17 PM] (14311) Starting service instance "librerias_python"
+[Info  - 5:17:17 PM] (14311) Auto-indent enabled
+[Info  - 5:17:17 PM] (14311) No configuration file found.
+[Info  - 5:17:17 PM] (14311) No pyproject.toml file found.
+[Info  - 5:17:17 PM] (14311) Setting pythonPath for service "librerias_python": "/bin/python3"
+[Warn  - 5:17:17 PM] (14311) stubPath /home/lrb96/librerias_python/typings is not a valid directory.
+[Info  - 5:17:17 PM] (14311) Assuming Python version 3.8
+[Info  - 5:17:17 PM] (14311) Assuming Python platform Linux
+[Info  - 5:17:17 PM] (14311) Searching for source files
+[Info  - 5:17:17 PM] (14311) Auto-excluding /home/lrb96/librerias_python/ejercicios_python_platzi/venv
+[Info  - 5:17:17 PM] (14311) Found 126 source files
+[Info  - 5:17:17 PM] (14311) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist
+[Info  - 5:17:17 PM] (14311) Background analysis(1) started
+[Info  - 5:17:17 PM] (14311) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist (index)
+[Info  - 5:17:17 PM] (14311) Indexing(2) started
+[Info  - 5:17:17 PM] (14311) scanned(2) 104 files over 1 exec env
+[Info  - 5:17:18 PM] (14311) indexed(2) 59 files over 1 exec env
+[Info  - 5:17:18 PM] (14311) Indexing finished(2).
+[Info  - 5:19:22 PM] (14311) Indexer background runner(3) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist (refresh)
+[Info  - 5:19:22 PM] (14311) Indexing(3) started
+[Info  - 5:19:22 PM] (14311) scanned(3) 198 files over 1 exec env
+[Info  - 5:19:23 PM] (14311) indexed(3) 128 files over 1 exec env
+[Info  - 5:19:23 PM] (14311) Indexing finished(3).
+[Info  - 5:19:42 PM] (14311) Indexer background runner(4) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist (refresh)
+[Info  - 5:19:42 PM] (14311) Indexing(4) started
+[Info  - 5:19:42 PM] (14311) scanned(4) 199 files over 1 exec env
+[Info  - 5:19:43 PM] (14311) indexed(4) 128 files over 1 exec env
+[Info  - 5:19:43 PM] (14311) Indexing finished(4).

@@ -1,0 +1,26 @@
+2023-04-02 17:20:38.496 [info] Nivel de registro: Info
+2023-04-02 17:20:38.496 [info] La validación encontró GIT en: “git“
+2023-04-02 17:20:38.496 [info] Usando GIT “2.25.1” desde “git”
+2023-04-02 17:20:38.496 [info] > git rev-parse --show-toplevel [5ms]
+2023-04-02 17:20:38.496 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-04-02 17:20:38.496 [info] Open repository: /home/lrb96
+2023-04-02 17:20:38.496 [info] > git rev-parse --show-toplevel [7ms]
+2023-04-02 17:20:38.496 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-02 17:20:38.496 [info] > git config --get commit.template [10ms]
+2023-04-02 17:20:38.496 [info] > git rev-parse --show-toplevel [2ms]
+2023-04-02 17:20:38.496 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-04-02 17:20:38.496 [info] > git rev-parse --show-toplevel [8ms]
+2023-04-02 17:20:38.496 [info] > git status -z -uall [79ms]
+2023-04-02 17:20:38.496 [info] > git config --get commit.template [49ms]
+2023-04-02 17:20:38.496 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [365ms]
+2023-04-02 17:20:38.496 [info] > git check-ignore -v -z --stdin [17ms]
+2023-04-02 17:20:38.496 [info] > git status -z -uall [72ms]
+2023-04-02 17:21:00.418 [info] > git fetch [1190ms]
+2023-04-02 17:21:00.424 [info] > git config --get commit.template [3ms]
+2023-04-02 17:21:00.424 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-04-02 17:21:00.478 [info] > git status -z -uall [52ms]
+2023-04-02 17:21:00.510 [info] > git config --get commit.template [1ms]
+2023-04-02 17:21:00.513 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-04-02 17:21:00.565 [info] > git status -z -uall [50ms]
+2023-04-02 17:21:06.466 [info] > git check-ignore -v -z --stdin [9ms]
+2023-04-02 17:21:08.929 [info] > git check-ignore -v -z --stdin [7ms]

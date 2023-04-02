@@ -1,0 +1,40 @@
+Visual Studio Code (1.77.0, wsl, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/lrb96/librerias_python
+info 17:21:11.283: ZMQ loaded via fallback mechanism.
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+info 17:21:11.502: LSP Notebooks experiment is enabled
+info 17:21:11.792: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Mar 13 2023, 10:26:41) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb' (disableUI=true)
+warn 17:21:12.231: Failed to get activated env vars for /bin/python3 in 439ms
+warn 17:21:12.231: Failed to get activated env vars for /bin/python3 in 435ms
+warn 17:21:12.231: Failed to get activated env vars for /bin/python3 in 137ms
+warn 17:21:12.231: Failed to get activated env vars for /bin/python3 in 136ms
+info 17:21:12.241: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+error 17:21:12.262: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:21:12.262: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:21:12.262: Unable to determine site packages path for python /bin/python3 (Unknown)
+error 17:21:12.262: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 17:21:12.268: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 17:21:12.274: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 17:21:12.278: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"34b574b0-7fb2-4662-993d-1b8c53acdac7" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-148516vbj8l9d2YzM.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"34b574b0-7fb2-4662-993d-1b8c53acdac7" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-148516vbj8l9d2YzM.json
+info 17:21:12.278: Process Execution: cwd: ~/librerias_python/cuadernos/matplotlib_platzi
+cwd: ~/librerias_python/cuadernos/matplotlib_platzi
+info 17:21:12.483: ipykernel version & path 6.22.0, ~/.local/lib/python3.8/site-packages/ipykernel/__init__.py for /bin/python3
+info 17:21:12.894: ZMQ loaded via fallback mechanism.
+info 17:21:12.905: Started Kernel Python 3.8.10 (pid: 15042)
+warn 17:21:13.007: Failed to get activated env vars for /bin/python3 in 70ms
+error 17:21:13.007: Unable to determine site packages path for python /bin/python3 (Unknown)
+info 17:21:13.014: Process Execution: > /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+> /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+info 17:21:32.197: Shutting down notebooks for a5148778-bafb-4f3a-a7cc-71a56e47694e
+info 17:21:32.197: Disposing HostJupyterExecution 170b9eb5-bb32-4bc6-a9bd-b2d366a7e7f5
+info 17:21:32.197: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/matplotlib_platzi/1.Pyplot_Basico.ipynb'
+info 17:21:32.199: Dispose Kernel process 15042.
+info 17:21:32.205: Disposing HostJupyterExecution 170b9eb5-bb32-4bc6-a9bd-b2d366a7e7f5
