@@ -1,0 +1,793 @@
+Visual Studio Code (1.77.0, wsl, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/lrb96/librerias_python
+info 11:34:53.906: ZMQ loaded via fallback mechanism.
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+info 11:34:54.149: LSP Notebooks experiment is enabled
+info 11:35:31.015: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Jun 22 2022, 20:18:18) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' (disableUI=false)
+warn 11:35:31.080: Failed to get activated env vars for /bin/python3 in 76ms
+info 11:35:31.089: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 11:35:31.106: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+warn 11:35:31.121: Failed to get activated env vars for /bin/python3 in 104ms
+warn 11:35:31.121: Failed to get activated env vars for /bin/python3 in 87ms
+warn 11:35:31.121: Failed to get activated env vars for /bin/python3 in 87ms
+info 11:35:31.126: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 11:35:31.131: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"b1aadd41-48a2-40d8-bc3c-2e4ed7110694" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-4572H5yegYXVDVqh.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"b1aadd41-48a2-40d8-bc3c-2e4ed7110694" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-4572H5yegYXVDVqh.json
+info 11:35:31.131: Process Execution: cwd: ~/librerias_python/cuadernos/pandas_platzi
+cwd: ~/librerias_python/cuadernos/pandas_platzi
+info 11:35:31.142: Process Execution: > /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+warn 11:35:31.143: StdErr from Kernel Process /bin/python3: No module named ipykernel_launcher
+
+error 11:35:31.144: Disposing kernel process due to an error [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:35:31.145: /bin/python3: No module named ipykernel_launcher
+
+info 11:35:31.146: Dispose Kernel process 4809.
+error 11:35:31.146: Kernel Launcher. launch, Class name = ah, completed in 129ms, has a falsy return value, Arg 1: {"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher","kernelSpec":{"specFile":"/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python 3","metadata":{"interpreter":{"path":"/bin/python3"}},"env":{}},"interpreter":{"id":"/bin/python3","sysPrefix":"/usr","displayPath":"/bin/python3","envName":"","displayName":"","envType":"Unknown","isCondaEnvWithoutPython":false,"version":{"major":3,"minor":8,"patch":10,"raw":"3.8.10 (default, Jun 22 2022, 20:18:18) \n[GCC 9.4.0]"},"path":"/bin/python3"},"kind":"startUsingPythonInterpreter"}, Arg 2: 60000, Arg 3: "~/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb", Arg 4: "~/librerias_python/cuadernos/pandas_platzi", Arg 5: <argument cannot be serialized for logging> [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:35:31.147: Failed to connect raw kernel session: Error: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+warn 11:35:31.148: Error occurred while trying to start the kernel, options.disableUI=false [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:35:31.148: Kernel Error, context = start [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:35:31.219: Failed to get activated env vars for /bin/python3 in 70ms
+info 11:35:31.225: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+error 11:35:31.290: interpreterPackages getPackageInformation, Class name = Kd, completed in 287ms, has a falsy return value, Arg 1: {"interpreter":{"id":"/bin/python3","sysPrefix":"/usr","displayPath":{"$mid":1,"fsPath":"/bin/python3","path":"/bin/python3","scheme":"file"},"envName":"","uri":{"$mid":1,"fsPath":"/bin/python3","external":"file:///bin/python3","path":"/bin/python3","scheme":"file"},"displayName":"","envType":"Unknown","isCondaEnvWithoutPython":false,"version":{"major":3,"minor":8,"patch":10,"raw":"3.8.10 (default, Jun 22 2022, 20:18:18) \n[GCC 9.4.0]"}}} [su [Error]: Module 'pip' not installed.
+	at au.execModule (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:7:27794)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async Kd.getPackageInformation (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:7:19123)] {
+  category: 'notinstalled',
+  moduleName: 'pip'
+}
+info 11:35:31.369: installMissingDependencies /bin/python3, ui.disabled=false for resource '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+warn 11:35:31.427: Failed to get activated env vars for /bin/python3 in 58ms
+info 11:35:31.431: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+warn 11:35:31.619: Failed to get activated env vars for /bin/python3 in 56ms
+info 11:35:31.623: Process Execution: > /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:35:35.786: Process Execution: > /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:35:39.121: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+error 11:35:39.121: Error in execution [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:35:39.122: Error in execution (get message for cell) [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:35:39.197: Failed to get activated env vars for /bin/python3 in 73ms
+info 11:35:39.201: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:35:45.429: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Jun 22 2022, 20:18:18) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' (disableUI=false)
+warn 11:35:45.475: Failed to get activated env vars for /bin/python3 in 45ms
+warn 11:35:45.475: Failed to get activated env vars for /bin/python3 in 40ms
+warn 11:35:45.475: Failed to get activated env vars for /bin/python3 in 40ms
+info 11:35:45.479: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 11:35:45.483: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"bf07d9a7-3785-44e3-b385-b5eee5fc85dd" --shell=9010 --transport="tcp" --iopub=9012 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-4572EO7vtIwuT69D.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9011 --control=9009 --hb=9008 --Session.signature_scheme="hmac-sha256" --Session.key=b"bf07d9a7-3785-44e3-b385-b5eee5fc85dd" --shell=9010 --transport="tcp" --iopub=9012 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-4572EO7vtIwuT69D.json
+info 11:35:45.483: Process Execution: cwd: ~/librerias_python/cuadernos/pandas_platzi
+cwd: ~/librerias_python/cuadernos/pandas_platzi
+warn 11:35:45.494: StdErr from Kernel Process /bin/python3: No module named ipykernel_launcher
+
+error 11:35:45.496: Disposing kernel process due to an error [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:35:45.496: /bin/python3: No module named ipykernel_launcher
+
+info 11:35:45.496: Dispose Kernel process 4826.
+error 11:35:45.496: Kernel Launcher. launch, Class name = ah, completed in 66ms, has a falsy return value, Arg 1: {"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher","kernelSpec":{"specFile":"/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python 3","metadata":{"interpreter":{"path":"/bin/python3"}},"env":{}},"interpreter":{"id":"/bin/python3","sysPrefix":"/usr","displayPath":"/bin/python3","envName":"","displayName":"","envType":"Unknown","isCondaEnvWithoutPython":false,"version":{"major":3,"minor":8,"patch":10,"raw":"3.8.10 (default, Jun 22 2022, 20:18:18) \n[GCC 9.4.0]"},"path":"/bin/python3"},"kind":"startUsingPythonInterpreter"}, Arg 2: 60000, Arg 3: "~/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb", Arg 4: "~/librerias_python/cuadernos/pandas_platzi", Arg 5: <argument cannot be serialized for logging> [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:35:45.497: Failed to connect raw kernel session: Error: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+warn 11:35:45.499: Error occurred while trying to start the kernel, options.disableUI=false [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:35:45.499: Kernel Error, context = start [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:35:45.532: Failed to get activated env vars for /bin/python3 in 32ms
+info 11:35:45.536: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:35:45.673: installMissingDependencies /bin/python3, ui.disabled=false for resource '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+warn 11:35:45.698: Failed to get activated env vars for /bin/python3 in 25ms
+info 11:35:45.701: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+warn 11:35:45.908: Failed to get activated env vars for /bin/python3 in 70ms
+info 11:35:45.912: Process Execution: > /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:35:47.636: Process Execution: > /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:35:50.309: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+error 11:35:50.309: Error in execution [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:35:50.309: Error in execution (get message for cell) [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:35:50.351: Failed to get activated env vars for /bin/python3 in 41ms
+info 11:35:50.356: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:37:03.945: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Jun 22 2022, 20:18:18) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' (disableUI=false)
+warn 11:37:04.048: Failed to get activated env vars for /bin/python3 in 102ms
+warn 11:37:04.048: Failed to get activated env vars for /bin/python3 in 97ms
+warn 11:37:04.048: Failed to get activated env vars for /bin/python3 in 97ms
+info 11:37:04.054: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 11:37:04.058: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9019 --control=9017 --hb=9016 --Session.signature_scheme="hmac-sha256" --Session.key=b"8bccc161-392d-43c5-aca9-d353ddd2bbfb" --shell=9018 --transport="tcp" --iopub=9020 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-4572LQZsxgAj2YQq.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9019 --control=9017 --hb=9016 --Session.signature_scheme="hmac-sha256" --Session.key=b"8bccc161-392d-43c5-aca9-d353ddd2bbfb" --shell=9018 --transport="tcp" --iopub=9020 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-4572LQZsxgAj2YQq.json
+info 11:37:04.059: Process Execution: cwd: ~/librerias_python/cuadernos/pandas_platzi
+cwd: ~/librerias_python/cuadernos/pandas_platzi
+warn 11:37:04.069: StdErr from Kernel Process /bin/python3: No module named ipykernel_launcher
+
+error 11:37:04.071: Disposing kernel process due to an error [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:37:04.071: /bin/python3: No module named ipykernel_launcher
+
+info 11:37:04.071: Dispose Kernel process 4856.
+error 11:37:04.072: Kernel Launcher. launch, Class name = ah, completed in 126ms, has a falsy return value, Arg 1: {"id":".jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher","kernelSpec":{"specFile":"/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json","interpreterPath":"/bin/python3","isRegisteredByVSC":"registeredByNewVersionOfExt","name":"pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1","argv":["python","-m","ipykernel_launcher","-f","{connection_file}"],"language":"python","executable":"python","display_name":"Python 3","metadata":{"interpreter":{"path":"/bin/python3"}},"env":{}},"interpreter":{"id":"/bin/python3","sysPrefix":"/usr","displayPath":"/bin/python3","envName":"","displayName":"","envType":"Unknown","isCondaEnvWithoutPython":false,"version":{"major":3,"minor":8,"patch":10,"raw":"3.8.10 (default, Jun 22 2022, 20:18:18) \n[GCC 9.4.0]"},"path":"/bin/python3"},"kind":"startUsingPythonInterpreter"}, Arg 2: 60000, Arg 3: "~/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb", Arg 4: "~/librerias_python/cuadernos/pandas_platzi", Arg 5: <argument cannot be serialized for logging> [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:37:04.072: Failed to connect raw kernel session: Error: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+warn 11:37:04.073: Error occurred while trying to start the kernel, options.disableUI=false [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:37:04.073: Kernel Error, context = start [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:37:04.095: Failed to get activated env vars for /bin/python3 in 22ms
+info 11:37:04.098: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:37:04.235: installMissingDependencies /bin/python3, ui.disabled=false for resource '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+warn 11:37:04.298: Failed to get activated env vars for /bin/python3 in 63ms
+info 11:37:04.303: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+warn 11:37:04.497: Failed to get activated env vars for /bin/python3 in 58ms
+info 11:37:04.501: Process Execution: > /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:37:06.274: Process Execution: > /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:37:07.372: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+error 11:37:07.373: Error in execution [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+error 11:37:07.373: Error in execution (get message for cell) [zp [Error]: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)] {
+  category: 'kerneldied',
+  kernelConnectionMetadata: da {
+    kind: 'startUsingPythonInterpreter',
+    kernelSpec: cs {
+      specFile: '/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/temp/jupyter/kernels/pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1/kernel.json',
+      interpreterPath: '/bin/python3',
+      isRegisteredByVSC: 'registeredByNewVersionOfExt',
+      name: 'pythonjvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1',
+      argv: [Array],
+      language: 'python',
+      executable: 'python',
+      display_name: 'Python 3',
+      metadata: [Object],
+      env: {},
+      interrupt_mode: undefined
+    },
+    interpreter: {
+      id: '/bin/python3',
+      sysPrefix: '/usr',
+      envPath: undefined,
+      displayPath: [E],
+      envName: '',
+      uri: [E],
+      displayName: '',
+      envType: 'Unknown',
+      isCondaEnvWithoutPython: false,
+      version: [Object]
+    },
+    id: '.jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher'
+  },
+  exitCode: 1,
+  stdErr: '/bin/python3: No module named ipykernel_launcher\n'
+}
+warn 11:37:07.421: Failed to get activated env vars for /bin/python3 in 47ms
+info 11:37:07.426: Process Execution: > /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+> /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+info 11:37:11.682: Shutting down notebooks for fc68c4cb-bbfa-4d36-91cd-868f4fb2e3f7
+info 11:37:11.682: Disposing HostJupyterExecution 6cb3a906-9a18-4de7-ab1e-f8300e1bd729
+info 11:37:11.682: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 11:37:11.682: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 11:37:11.682: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 11:37:11.682: Disposing HostJupyterExecution 6cb3a906-9a18-4de7-ab1e-f8300e1bd729

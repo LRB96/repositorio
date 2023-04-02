@@ -1,0 +1,130 @@
+2023-04-02 11:34:28.835 [info] Extension host with pid 4572 started
+2023-04-02 11:34:28.852 [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/7f06b1e0c696c60fa0dae9268a3fd6aa/vscode.lock': Lock acquired.
+2023-04-02 11:34:28.899 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2023-04-02 11:34:28.943 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-04-02 11:34:28.968 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-04-02 11:34:28.968 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-04-02 11:34:29.170 [info] Eager extensions activated
+2023-04-02 11:34:29.170 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-04-02 11:34:29.170 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-04-02 11:34:29.213 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-04-02 11:34:29.257 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1896
+2023-04-02 11:34:29.652 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1897
+2023-04-02 11:34:30.174 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-02 11:34:30.175 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-02 11:34:30.175 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-04-02 11:34:30.435 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1898
+2023-04-02 11:34:34.050 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1898
+2023-04-02 11:34:39.091 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1898
+2023-04-02 11:34:53.476 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-slideshow, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-04-02 11:34:53.476 [info] ExtensionService#_doActivateExtension ms-toolsai.vscode-jupyter-cell-tags, startup: false, activationEvent: 'onNotebook:jupyter-notebook'
+2023-04-02 11:34:53.476 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'onNotebook:*'
+2023-04-02 11:34:53.477 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2023-04-02 11:34:53.477 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-04-02 11:34:53.632 [warning] Using default string since no string found in i18n bundle that has the key: Python is not installed. 
+Please download and install Python in order to execute cells in this notebook. 
+Once installed please reload VS Code.
+2023-04-02 11:34:53.632 [warning] Using default string since no string found in i18n bundle that has the key: Please check the 'Jupyter' [output](command:jupyter.viewOutput) panel for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-04-02 11:34:53.632 [warning] Using default string since no string found in i18n bundle that has the key: Jupyter Server Console
+2023-04-02 11:34:53.633 [warning] Using default string since no string found in i18n bundle that has the key: Operation not supported in web version of Jupyter Extension.
+2023-04-02 11:34:53.633 [warning] Using default string since no string found in i18n bundle that has the key: type to filter
+2023-04-02 11:34:53.633 [warning] Using default string since no string found in i18n bundle that has the key: Failed to install the Python Extension.
+2023-04-02 11:34:53.821 [warning] Using default string since no string found in i18n bundle that has the key: You need to select a Python interpreter before you start debugging.
+
+Tip: click on "Select Interpreter" in the status bar.
+2023-04-02 11:34:53.821 [warning] Using default string since no string found in i18n bundle that has the key: The Python extension now includes Pylance to improve completions, code navigation, overall performance and much more! You can learn more about the update and learn how to change your language server [here](https://aka.ms/new-python-bundle).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-04-02 11:34:53.822 [warning] Using default string since no string found in i18n bundle that has the key: The Microsoft Python Language Server has reached end of life. Your language server has been set to the default for Python in VS Code, Pylance.
+
+If you'd like to change your language server, you can learn about how to do so [here](https://devblogs.microsoft.com/python/python-in-visual-studio-code-may-2021-release/#configuring-your-language-server).
+
+Read Pylance's license [here](https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license).
+2023-04-02 11:34:54.271 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-04-02 11:34:58.377 [warning] Using default string since no string found in i18n bundle that has the key: Don't Show Again
+2023-04-02 11:35:13.929 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10002
+2023-04-02 11:35:19.651 [error] Canceled: Canceled
+	at Bb.selectLocalKernel (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:24:213830)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async Jb.onSelectLocalKernel (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:24:222791)
+	at async m.h (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:125789) jupyter.kernel.selectLocalPythonEnvironment {"value":"ms-toolsai.jupyter","c":"ms-toolsai.jupyter"}
+2023-04-02 11:35:20.653 [error] {}
+2023-04-02 11:35:31.147 [warning] Using default string since no string found in i18n bundle that has the key: Failed to start the Kernel '{0}'. 
+View Jupyter [log](command:jupyter.viewOutput) for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-04-02 11:35:32.290 [error] Error: Module 'pip' not installed.
+	at au.execModule (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:7:27794)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async Kd.getPackageInformation (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:7:19123)
+2023-04-02 11:35:39.342 [warning] Using default string since no string found in i18n bundle that has the key: Run the following command to install '{0}' into the Python environment. 
+Command: '{1}'
+2023-04-02 11:35:45.498 [warning] Using default string since no string found in i18n bundle that has the key: Failed to start the Kernel '{0}'. 
+View Jupyter [log](command:jupyter.viewOutput) for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-04-02 11:35:50.496 [warning] Using default string since no string found in i18n bundle that has the key: Run the following command to install '{0}' into the Python environment. 
+Command: '{1}'
+2023-04-02 11:37:04.072 [warning] Using default string since no string found in i18n bundle that has the key: Failed to start the Kernel '{0}'. 
+View Jupyter [log](command:jupyter.viewOutput) for further details./Do not translate the text "command:jupyter.viewOutput", that is a command Id that will be used by VS Code to open the output panel
+2023-04-02 11:37:07.567 [warning] Using default string since no string found in i18n bundle that has the key: Run the following command to install '{0}' into the Python environment. 
+Command: '{1}'
+2023-04-02 11:37:11.656 [info] Extension host terminating: received terminate message from renderer
+2023-04-02 11:37:11.657 [info] Lock '/home/lrb96/.vscode-server/data/User/workspaceStorage/7f06b1e0c696c60fa0dae9268a3fd6aa/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-04-02 11:37:11.690 [error] Canceled: Canceled
+	at new l (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:105190)
+	at c.O (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:109:11692)
+	at Proxy.G.<computed>.Q.charCodeAt.G.<computed> (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:109:8967)
+	at m.g (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:125211)
+	at m.executeCommand (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:124587)
+	at L.registerCommand.description (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:123880)
+	at m.h (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:125797)
+	at m.g (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:124687)
+	at m.executeCommand (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:99:124587)
+	at Object.executeCommand (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:115:23801)
+	at D (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/extensions/git/dist/main.js:2:1467156)
+	at E.invoke (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/extensions/git/dist/main.js:2:1481885)
+	at /home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/extensions/git/dist/main.js:2:1485952
+	at Array.forEach (<anonymous>)
+	at g.dispose (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/extensions/git/dist/main.js:2:1485938)
+	at t.<anonymous> (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:97:12398)
+	at t.dispose (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:97:12533)
+	at t.<anonymous> (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/extensions/git/dist/main.js:2:1469286)
+	at t.dispose (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:97:12533)
+	at I (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:10:12084)
+	at E.Y (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:111:11147)
+	at /home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:111:9131
+	at Array.map (<anonymous>)
+	at E.R (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:111:9118)
+	at E.terminate (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:111:9389)
+	at d.terminate (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:115:1544)
+	at p (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:125:18690)
+	at /home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:125:16600
+	at E.invoke (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at p.fire (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:14916)
+	at s.E (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:18982)
+	at /home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:16970
+	at E.invoke (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at d.acceptChunk (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:12647)
+	at /home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:11934
+	at E.invoke (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at n.fire (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at n.u (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:28919)
+	at n.acceptFrame (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:28725)
+	at E.l (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:27312)
+	at /home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:24635
+	at Socket.s (/home/lrb96/.vscode-server/bin/7f329fe6c66b0f86ae1574c2911b681ad5a45d63/out/vs/workbench/api/node/extensionHostProcess.js:72:22469)
+	at Socket.emit (node:events:526:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at TCP.onStreamRead (node:internal/stream_base_commons:190:23) setContext undefined
+2023-04-02 11:37:11.690 [error] Error: El kernel ha muerto. Error: /bin/python3: No module named ipykernel_launcher... Vea Jupyter [log](command:jupyter.viewOutput) para obtener más detalles.
+	at ChildProcess.<anonymous> (/home/lrb96/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/out/extension.node.js:17:58325)
+	at ChildProcess.emit (node:events:538:35)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-04-02 11:37:11.703 [info] Extension host with pid 4572 exiting with code 0

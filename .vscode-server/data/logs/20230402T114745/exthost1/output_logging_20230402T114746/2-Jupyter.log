@@ -1,0 +1,42 @@
+Visual Studio Code (1.77.0, wsl, desktop)
+Jupyter Extension Version: 2023.3.1000892223.
+Python Extension Version: 2023.6.0.
+Workspace folder /home/lrb96/librerias_python
+info 11:48:08.992: ZMQ loaded via fallback mechanism.
+El usuario pertenece al grupo de experimentos 'jupyterEnhancedDataViewer'
+El usuario pertenece al grupo de experimentos 'jupyterTest'
+info 11:48:09.201: LSP Notebooks experiment is enabled
+info 11:48:09.601: Starting Jupyter Session startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher (Python Path: , EnvType: Unknown, EnvName: '', Version: 3.8.10 (default, Mar 13 2023, 10:26:41) 
+[GCC 9.4.0]) for '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' (disableUI=true)
+warn 11:48:10.019: Failed to get activated env vars for /bin/python3 in 419ms
+warn 11:48:10.019: Failed to get activated env vars for /bin/python3 in 416ms
+warn 11:48:10.019: Failed to get activated env vars for /bin/python3 in 142ms
+warn 11:48:10.019: Failed to get activated env vars for /bin/python3 in 141ms
+info 11:48:10.028: Process Execution: > /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+> /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+info 11:48:10.065: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+info 11:48:10.069: Process Execution: > /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+> /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+info 11:48:10.075: Process Execution: > /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"b034c135-d0b3-4166-b77a-09b9fb9f3853" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-10975eGNet5zbrTxI.json
+> /bin/python3 -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"b034c135-d0b3-4166-b77a-09b9fb9f3853" --shell=9002 --transport="tcp" --iopub=9004 --f=/home/lrb96/.local/share/jupyter/runtime/kernel-v2-10975eGNet5zbrTxI.json
+info 11:48:10.075: Process Execution: cwd: ~/librerias_python/cuadernos/pandas_platzi
+cwd: ~/librerias_python/cuadernos/pandas_platzi
+info 11:48:10.288: ipykernel version & path 6.22.0, ~/.local/lib/python3.8/site-packages/ipykernel/__init__.py for /bin/python3
+warn 11:48:10.524: StdErr from Kernel Process /home/lrb96/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2548: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+
+warn 11:48:10.524: StdErr from Kernel Process /home/lrb96/.local/lib/python3.8/site-packages/traitlets/traitlets.py:2499: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use 'b034c135-d0b3-4166-b77a-09b9fb9f3853' instead of 'b"b034c135-d0b3-4166-b77a-09b9fb9f3853"'.
+  warn(
+
+info 11:48:10.701: ZMQ loaded via fallback mechanism.
+info 11:48:10.715: Started Kernel Python 3.8.10 (pid: 11068)
+warn 11:48:10.776: Failed to get activated env vars for /bin/python3 in 26ms
+info 11:48:10.782: Process Execution: > /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+> /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+info 11:49:59.941: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 11:49:59.943: Dispose Kernel process 11068.
+info 11:50:01.810: Shutting down notebooks for f91a9d4f-3f34-4dae-af29-bed6a81d5d05
+info 11:50:01.810: Disposing HostJupyterExecution bd0a5a4e-432a-4033-89b2-9ff80a1a8a5c
+info 11:50:01.810: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 11:50:01.811: Disposing HostJupyterExecution bd0a5a4e-432a-4033-89b2-9ff80a1a8a5c

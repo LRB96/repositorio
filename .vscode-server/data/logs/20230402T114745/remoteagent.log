@@ -1,0 +1,13 @@
+2023-04-02 11:47:45.796 [info] 
+
+
+
+
+2023-04-02 11:47:45.816 [info] Extension host agent started.
+2023-04-02 11:47:45.990 [info] [127.0.0.1][4e4f0bd9][ManagementConnection] New connection established.
+2023-04-02 11:47:46.081 [info] [127.0.0.1][922f36ed][ExtensionHostConnection] New connection established.
+2023-04-02 11:47:46.192 [info] [127.0.0.1][922f36ed][ExtensionHostConnection] <10975> Launched Extension Host Process.
+2023-04-02 11:48:10.700 [info] [127.0.0.1][922f36ed][ExtensionHostConnection] <10975> Starting WebSocket: RAW/api/kernels/7cc8d9ce-162b-45fe-88df-333e19401b1d
+
+2023-04-02 11:50:01.787 [info] [127.0.0.1][4e4f0bd9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-02 11:50:01.847 [info] [127.0.0.1][922f36ed][ExtensionHostConnection] <10975> Extension Host Process exited with code: 0, signal: null.

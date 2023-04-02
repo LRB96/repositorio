@@ -1,0 +1,27 @@
+2023-04-02 11:47:47.350 [info] Nivel de registro: Info
+2023-04-02 11:47:47.350 [info] La validación encontró GIT en: “git“
+2023-04-02 11:47:47.350 [info] Usando GIT “2.25.1” desde “git”
+2023-04-02 11:47:47.350 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-02 11:47:47.350 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-04-02 11:47:47.350 [info] Open repository: /home/lrb96
+2023-04-02 11:47:47.350 [info] > git rev-parse --show-toplevel [9ms]
+2023-04-02 11:47:47.350 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-02 11:47:47.350 [info] > git config --get commit.template [10ms]
+2023-04-02 11:47:47.350 [info] > git rev-parse --show-toplevel [3ms]
+2023-04-02 11:47:47.350 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-04-02 11:47:47.350 [info] > git rev-parse --show-toplevel [41ms]
+2023-04-02 11:47:47.350 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 11:47:47.350 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-02 11:47:47.410 [info] > git status -z -uall [68ms] (cancelled)
+2023-04-02 11:47:47.788 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 11:47:48.436 [info] > git fetch [1162ms]
+2023-04-02 11:47:48.436 [info] Warning: Permanently added the ECDSA host key for IP address '140.82.113.3' to the list of known hosts.
+2023-04-02 11:47:48.445 [info] > git config --get commit.template [6ms]
+2023-04-02 11:47:48.445 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-04-02 11:47:48.500 [info] > git status -z -uall [53ms] (cancelled)
+2023-04-02 11:47:48.615 [info] > git config --get commit.template [3ms]
+2023-04-02 11:47:48.620 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-04-02 11:47:49.454 [info] > git status -z -uall [830ms] (cancelled)
+2023-04-02 11:48:03.569 [info] > git check-ignore -v -z --stdin [0ms]
+2023-04-02 11:48:07.423 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-02 11:50:01.431 [info] > git check-ignore -v -z --stdin [1ms]
