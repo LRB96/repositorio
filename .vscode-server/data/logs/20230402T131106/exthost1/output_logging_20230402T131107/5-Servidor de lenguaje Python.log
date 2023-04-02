@@ -1,0 +1,20 @@
+[Info  - 1:11:39 PM] (12538) Pylance language server 2023.3.40 (pyright 04471971) starting
+[Info  - 1:11:39 PM] (12538) Server root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist
+[Info  - 1:11:39 PM] (12538) Starting service instance "librerias_python"
+[Info  - 1:11:39 PM] (12538) Auto-indent enabled
+[Info  - 1:11:39 PM] (12538) No configuration file found.
+[Info  - 1:11:39 PM] (12538) No pyproject.toml file found.
+[Info  - 1:11:39 PM] (12538) Setting pythonPath for service "librerias_python": "/bin/python3"
+[Warn  - 1:11:39 PM] (12538) stubPath /home/lrb96/librerias_python/typings is not a valid directory.
+[Info  - 1:11:39 PM] (12538) Assuming Python version 3.8
+[Info  - 1:11:39 PM] (12538) Assuming Python platform Linux
+[Info  - 1:11:39 PM] (12538) Searching for source files
+[Info  - 1:11:39 PM] (12538) Auto-excluding /home/lrb96/librerias_python/ejercicios_python_platzi/venv
+[Info  - 1:11:39 PM] (12538) Found 126 source files
+[Info  - 1:11:40 PM] (12538) Background analysis(1) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist
+[Info  - 1:11:40 PM] (12538) Background analysis(1) started
+[Info  - 1:11:40 PM] (12538) Indexer background runner(2) root directory: /home/lrb96/.vscode-server/extensions/ms-python.vscode-pylance-2023.3.40/dist (index)
+[Info  - 1:11:40 PM] (12538) Indexing(2) started
+[Info  - 1:11:40 PM] (12538) scanned(2) 104 files over 1 exec env
+[Info  - 1:11:41 PM] (12538) indexed(2) 59 files over 1 exec env
+[Info  - 1:11:41 PM] (12538) Indexing finished(2).
