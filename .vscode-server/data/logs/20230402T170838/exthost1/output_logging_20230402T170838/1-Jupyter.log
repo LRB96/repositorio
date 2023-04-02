@@ -39,3 +39,9 @@ warn 17:08:42.516: Failed to get activated env vars for /bin/python3 in 65ms
 error 17:08:42.517: Unable to determine site packages path for python /bin/python3 (Unknown)
 info 17:08:42.590: Process Execution: > /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
 > /bin/python3 ~/.vscode-server/extensions/ms-toolsai.jupyter-2023.3.1000892223/pythonFiles/printJupyterDataDir.py
+info 17:14:52.496: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 17:14:52.497: Dispose Kernel process 269.
+info 17:14:53.211: Shutting down notebooks for b78b8340-8663-4c42-88c0-9f401e49e76a
+info 17:14:53.211: Disposing HostJupyterExecution defff63e-d8f0-4b75-9be9-ec0b68eaf4ac
+info 17:14:53.211: Dispose Kernel '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb' associated with '/home/lrb96/librerias_python/cuadernos/pandas_platzi/1.Archivos_csv.ipynb'
+info 17:14:53.212: Disposing HostJupyterExecution defff63e-d8f0-4b75-9be9-ec0b68eaf4ac
